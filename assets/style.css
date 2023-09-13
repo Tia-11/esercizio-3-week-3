@@ -1,0 +1,62 @@
+body {
+  background-color: lightblue;
+}
+
+main {
+  text-align: center;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+h1 {
+  font-size: 4em;
+  margin: 1em 8em 1em;
+  font-weight: bold;
+  border: 3px solid black;
+  padding: 0.5em;
+  border-radius: 10%;
+  background-color: rgb(28, 28, 88);
+  color: white;
+}
+
+.primodiv {
+  margin-bottom: 2em;
+  font-size: 2.5em;
+  font-weight: bold;
+}
+
+#nuovotask {
+  padding: 0.3em;
+  width: 30em;
+}
+
+.primodiv button {
+  padding: 1em;
+  background-color: rgb(28, 28, 88);
+  color: white;
+  border-radius: 20%;
+  display: block;
+  width: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2em;
+  font-weight: bold;
+}
+
+.li {
+  font-size: 2.5em;
+  text-align: left;
+  margin-left: 15em;
+  margin-bottom: 1em;
+}
+
+li button {
+  padding: 0.5em;
+  width: 5em;
+  border: 2px solid black;
+  border-radius: 40%;
+  font-size: 0.4em;
+  font-weight: bold;
+  background-color: rgb(28, 28, 88);
+  color: white;
+  margin-left: 1em;
+}
